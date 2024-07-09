@@ -1,0 +1,12 @@
+Little Big Planet - UCES-01264:
+  files:
+    <root>/PSP/SAVEDATA/UCES01264PROFILE:
+      tags:
+        - save
+    <root>/PSP/SAVEDATA/UCES01264INSTALL:
+      tags:
+        - installation
+    <root>/PSP/GAME/UCES01264:
+      tags:
+        - patch
+        - dlc
