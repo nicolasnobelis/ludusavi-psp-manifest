@@ -1,3 +1,9 @@
+Killzone Liberation - UCES-00279:
+  files:
+    # TODO add the path for the patch/dlc
+    <root>/PSP/SAVEDATA/UCES00279DATA00:
+      tags:
+        - save
 Little Big Planet - UCES-01264:
   files:
     <root>/PSP/SAVEDATA/UCES01264PROFILE:
