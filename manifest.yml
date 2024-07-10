@@ -16,3 +16,18 @@ Little Big Planet - UCES-01264:
       tags:
         - patch
         - dlc
+LocoRoco - UCES 00304:
+  files:
+    <root>/PSP/SAVEDATA/UCES00304_GameData0:
+      tags:
+        - save
+    <root>/PSP/SAVEDATA/UCES00304_GameData1:
+      tags:
+        - save
+    # TODO No UCES00304_GameData2?
+    <root>/PSP/SAVEDATA/UCES00304_GameData3:
+      tags:
+        - save
+    <root>/PSP/SAVEDATA/UCES00304_LocoHouse000:
+      tags:
+        - save
