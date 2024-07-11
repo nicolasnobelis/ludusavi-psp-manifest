@@ -1,34 +1,34 @@
 Killzone Liberation - UCES-00279:
   files:
     # TODO add the path for the patch/dlc
-    <root>/PSP/SAVEDATA/UCES00279DATA00:
+    "<root>/PSP/SAVEDATA/UCES00279DATA00":
       tags:
         - save
 Little Big Planet - UCES-01264:
   files:
-    <root>/PSP/SAVEDATA/UCES01264PROFILE:
+    "<root>/PSP/SAVEDATA/UCES01264PROFILE":
       tags:
         - save
-    <root>/PSP/SAVEDATA/UCES01264INSTALL:
+    "<root>/PSP/SAVEDATA/UCES01264INSTALL":
       tags:
         - installation
-    <root>/PSP/GAME/UCES01264:
+    "<root>/PSP/GAME/UCES01264":
       tags:
         - patch
         - dlc
 LocoRoco - UCES 00304:
   files:
-    <root>/PSP/SAVEDATA/UCES00304_GameData0:
+    "<root>/PSP/SAVEDATA/UCES00304_GameData0":
       tags:
         - save
-    <root>/PSP/SAVEDATA/UCES00304_GameData1:
+    "<root>/PSP/SAVEDATA/UCES00304_GameData1":
       tags:
         - save
     # TODO No UCES00304_GameData2?
-    <root>/PSP/SAVEDATA/UCES00304_GameData3:
+    "<root>/PSP/SAVEDATA/UCES00304_GameData3":
       tags:
         - save
-    <root>/PSP/SAVEDATA/UCES00304_LocoHouse000:
+    "<root>/PSP/SAVEDATA/UCES00304_LocoHouse000":
       tags:
         - save
 Wipeout Pulse - UCES 00465:
