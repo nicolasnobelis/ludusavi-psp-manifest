@@ -18,6 +18,14 @@ God of War - Chains of Olympus - UCES-00842:
     "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
       tags:
         - save
+Key of Heaven - UCES-00178:
+  files:
+    "<root>/PSP/SAVEDATA/UCES001780":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES001781":
+      tags:
+        - save
 Killzone Liberation - UCES-00279:
   files:
     "<root>/PSP/SAVEDATA/UCES00279DATA00":
