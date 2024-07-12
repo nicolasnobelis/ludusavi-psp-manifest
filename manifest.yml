@@ -1,3 +1,23 @@
+God of War - Chains of Olympus - UCES-00842:
+  files:
+    "<root>/PSP/SAVEDATA/UCES00842DATA00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES00842DATA01":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES00842DATA02":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES00842DATA03":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES00842DATA04":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
+      tags:
+        - save
 Killzone Liberation - UCES-00279:
   files:
     # TODO add the path for the patch/dlc
