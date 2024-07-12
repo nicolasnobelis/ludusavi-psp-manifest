@@ -20,10 +20,12 @@ God of War - Chains of Olympus - UCES-00842:
         - save
 Killzone Liberation - UCES-00279:
   files:
-    # TODO add the path for the patch/dlc
     "<root>/PSP/SAVEDATA/UCES00279DATA00":
       tags:
         - save
+    "<root>/PSP/GAME/UCES00279":
+      tags:
+        - dlc
 Little Big Planet - UCES-01264:
   files:
     "<root>/PSP/SAVEDATA/UCES01264PROFILE":
