@@ -61,6 +61,53 @@ LocoRoco - UCES 00304:
     "<root>/PSP/SAVEDATA/UCES00304_LocoHouse000":
       tags:
         - save
+MotorStorm Arctic Edge - UCES 01250:
+  files:
+    "<root>/PSP/SAVEDATA/UCES012500000":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES012500001":
+      tags:
+        - save
+    "<root>/PSP/GAME/UCES01250":
+      tags:
+        - "collector edition key"
+    # TODO The unlocked vehicles list is not complete
+    "<root>/PSP/SAVEDATA/UCES012502015":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502045":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502075":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502135":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502150":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502270":
+      tags:
+        - vehicle
+    "<root>/PSP/SAVEDATA/UCES012502360":
+      tags:
+        - vehicle
+    # TODO It is not clear if the entries underneath are custom data
+    # specific to my PSP or official entries. Correct in the former case.
+    "<root>/PSP/SAVEDATA/UCES012501195":
+      tags:
+        - ghost
+    "<root>/PSP/LICENSE/EP9000-UCES01250_00-MSAESPECEDKEY001.RIF":
+      tags:
+        - license
+    "<root>/PSP/LICENSE/EP9000-UCES01250_00-MSAESPECEDTHEME1.RIF":
+      tags:
+        - license
+    "<root>/PSP/THEME/UCES01250":
+      tags:
+        - theme
 Patapon - UCES 00995:
   files:
     "<root>/PSP/SAVEDATA/UCES00995_DATA00":
