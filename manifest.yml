@@ -1,9 +1,9 @@
-Fat Princess - Fistful of Cake - UCUS-98740:
+"Fat Princess: Fistful of Cake - UCUS-98740":
   files:
     "<root>/PSP/SAVEDATA/UCUS98740DATA00":
       tags:
         - save
-God of War - Chains of Olympus - UCES-00842:
+"God of War: Chains of Olympus - UCES-00842":
   files:
     "<root>/PSP/SAVEDATA/UCES00842DATA00":
       tags:
@@ -23,7 +23,7 @@ God of War - Chains of Olympus - UCES-00842:
     "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
       tags:
         - save
-Key of Heaven - UCES-00178:
+"Key of Heaven - UCES-00178":
   files:
     "<root>/PSP/SAVEDATA/UCES001780":
       tags:
@@ -31,7 +31,7 @@ Key of Heaven - UCES-00178:
     "<root>/PSP/SAVEDATA/UCES001781":
       tags:
         - save
-Killzone Liberation - UCES-00279:
+"Killzone Liberation - UCES-00279":
   files:
     "<root>/PSP/SAVEDATA/UCES00279DATA00":
       tags:
@@ -39,7 +39,7 @@ Killzone Liberation - UCES-00279:
     "<root>/PSP/GAME/UCES00279":
       tags:
         - dlc
-Little Big Planet - UCES-01264:
+"Little Big Planet - UCES-01264":
   files:
     "<root>/PSP/SAVEDATA/UCES01264PROFILE":
       tags:
@@ -51,7 +51,7 @@ Little Big Planet - UCES-01264:
       tags:
         - patch
         - dlc
-LocoRoco - UCES 00304:
+"LocoRoco - UCES 00304":
   files:
     "<root>/PSP/SAVEDATA/UCES00304_GameData0":
       tags:
@@ -66,7 +66,7 @@ LocoRoco - UCES 00304:
     "<root>/PSP/SAVEDATA/UCES00304_LocoHouse000":
       tags:
         - save
-MotorStorm Arctic Edge - UCES 01250:
+"MotorStorm: Arctic Edge - UCES 01250":
   files:
     "<root>/PSP/SAVEDATA/UCES012500000":
       tags:
@@ -113,7 +113,7 @@ MotorStorm Arctic Edge - UCES 01250:
     "<root>/PSP/THEME/UCES01250":
       tags:
         - theme
-Patapon - UCES 00995:
+"Patapon - UCES 00995":
   files:
     "<root>/PSP/SAVEDATA/UCES00995_DATA00":
       tags:
@@ -121,7 +121,7 @@ Patapon - UCES 00995:
     "<root>/PSP/SAVEDATA/UCES00995_DATA01":
       tags:
         - save
-Wipeout Pulse - UCES 00465:
+"Wipeout Pulse - UCES 00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
       tags:
