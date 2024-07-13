@@ -15,4 +15,11 @@ Connect your PSP in USB to your computer. Configure the mounting point (or drive
 
 ## Known issues:
 
-TBD
+> [!IMPORTANT]
+> Please note that this manifest has been empirically created from data from _my_ PSP and _my_ saves.
+> Therefore, some entries could be missing.
+> 
+> For instance, if a game allows to save to three slots and I only ever used the first two ones, the
+> slot 3 will be missing from the manifest since it's not present on my PSP.
+>
+> If you notice such missing entries, feel free to open a pull request.
