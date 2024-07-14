@@ -129,6 +129,11 @@
     "<root>/PSP/SAVEDATA/UCES00995_DATA01":
       tags:
         - save
+"Power Stone Collection - ULES-00496":
+  files:
+    "<root>/PSP/SAVEDATA/ULES00496":
+      tags:
+        - save
 "Wipeout Pulse - UCES 00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
