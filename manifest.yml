@@ -23,6 +23,14 @@
     "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
       tags:
         - save
+"Grand Theft Auto: Liberty City Stories - ULES-00151":
+  files:
+    "<root>/PSP/SAVEDATA/ULES00151S0":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES00151S1":
+      tags:
+        - save
 "Key of Heaven - UCES-00178":
   files:
     "<root>/PSP/SAVEDATA/UCES001780":
