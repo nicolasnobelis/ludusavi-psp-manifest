@@ -59,7 +59,7 @@
       tags:
         - patch
         - dlc
-"LocoRoco - UCES 00304":
+"LocoRoco - UCES-00304":
   files:
     "<root>/PSP/SAVEDATA/UCES00304_GameData0":
       tags:
@@ -74,7 +74,7 @@
     "<root>/PSP/SAVEDATA/UCES00304_LocoHouse000":
       tags:
         - save
-"MotorStorm: Arctic Edge - UCES 01250":
+"MotorStorm: Arctic Edge - UCES-01250":
   files:
     "<root>/PSP/SAVEDATA/UCES012500000":
       tags:
@@ -121,7 +121,7 @@
     "<root>/PSP/THEME/UCES01250":
       tags:
         - theme
-"Patapon - UCES 00995":
+"Patapon - UCES-00995":
   files:
     "<root>/PSP/SAVEDATA/UCES00995_DATA00":
       tags:
@@ -134,7 +134,7 @@
     "<root>/PSP/SAVEDATA/ULES00496":
       tags:
         - save
-"Wipeout Pulse - UCES 00465":
+"Wipeout Pulse - UCES-00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
       tags:
