@@ -8,6 +8,14 @@
     "<root>/PSP/SAVEDATA/ULES00765DATA00":
       tags:
         - save
+"Dissidia: Final Fantasy - ULES-01270":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01270GameData00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES01270GameData01":
+      tags:
+        - save
 "Fat Princess: Fistful of Cake - UCUS-98740":
   files:
     "<root>/PSP/SAVEDATA/UCUS98740DATA00":
