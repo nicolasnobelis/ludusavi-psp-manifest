@@ -144,6 +144,17 @@
     "<root>/PSP/SAVEDATA/ULES00496":
       tags:
         - save
+"Puzzle Quest: Challenge of the Warlords - ULES-00909":
+  files:
+    "<root>/PSP/SAVEDATA/ULES00909Settings":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES00909*":
+      tags:
+        - save
+    "<root>/PSP/LICENSE/EP0367-ULES00909_00-GPCPUZZLEQ000002.RIF":
+      tags:
+        - "license if the game was downloaded from the PSN"
 "Wipeout Pulse - UCES-00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
