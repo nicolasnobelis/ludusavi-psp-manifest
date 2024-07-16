@@ -173,6 +173,11 @@
     "<root>/PSP/LICENSE/EP0367-ULES00909_00-GPCPUZZLEQ000002.RIF":
       tags:
         - "license if the game was downloaded from the PSN"
+"Silent Hill: Shattered Memories - ULES-01352":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01352STORE.000":
+      tags:
+        - save
 "Soulcalibur: Broken Destiny - ULES-01298":
   files:
     "<root>/PSP/SAVEDATA/ULES01298SAVE00":
