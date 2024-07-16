@@ -54,6 +54,14 @@
     "<root>/PSP/SAVEDATA/ULES00151S1":
       tags:
         - save
+"Half-Minute Hero - ULES-01359":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01359DATA00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES01359DATA01":
+      tags:
+        - save
 "Key of Heaven - UCES-00178":
   files:
     "<root>/PSP/SAVEDATA/UCES001780":
