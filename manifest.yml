@@ -168,6 +168,14 @@
     "<root>/PSP/LICENSE/EP0367-ULES00909_00-GPCPUZZLEQ000002.RIF":
       tags:
         - "license if the game was downloaded from the PSN"
+"Soulcalibur: Broken Destiny - ULES-01298":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01298SAVE00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES01298SAVE01":
+      tags:
+        - save
 "Wipeout Pulse - UCES-00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
