@@ -26,6 +26,14 @@
     "<root>/PSP/SAVEDATA/ULES00986DATA00":
       tags:
         - save
+"Final Fantasy IV: The Complete Collection - ULES-01521":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01521FFIV":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES01521System":
+      tags:
+        - save
 "God of War: Chains of Olympus - UCES-00842":
   files:
     "<root>/PSP/SAVEDATA/UCES00842DATA00":
