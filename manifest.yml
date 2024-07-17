@@ -210,6 +210,11 @@
     "<root>/PSP/SAVEDATA/ULES01500DATA01":
       tags:
         - save
+"Warriors Orochi - ULES-01055":
+  files:
+    "<root>/PSP/SAVEDATA/ULES010550000":
+      tags:
+        - save
 "Wipeout Pulse - UCES-00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
