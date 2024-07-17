@@ -194,6 +194,14 @@
     "<root>/PSP/SAVEDATA/ULES01298SAVE01":
       tags:
         - save
+"Tactics Ogre: Let Us Cling Together - ULES-01500":
+  files:
+    "<root>/PSP/SAVEDATA/ULES01500DATA00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULES01500DATA01":
+      tags:
+        - save
 "Wipeout Pulse - UCES-00465":
   files:
     "<root>/PSP/SAVEDATA/UCES00465P0000":
