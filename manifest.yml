@@ -8,6 +8,11 @@
     "<root>/PSP/SAVEDATA/ULES00765DATA00":
       tags:
         - save
+"Disgaea: Afternoon of Darkness - ULUS-10308":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS10308DISGAEA000":
+      tags:
+        - save
 "Dissidia: Final Fantasy - ULES-01270":
   files:
     "<root>/PSP/SAVEDATA/ULES01270GameData00":
