@@ -91,6 +91,11 @@
     "<root>/PSP/GAME/UCES00279":
       tags:
         - dlc
+"LEGO Batman: The Videogame - ULUS-10380":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS10380USER000":
+      tags:
+        - save
 "LEGO Harry Potter: Years 1-4 - ULES-01351":
   files:
     "<root>/PSP/SAVEDATA/ULES01351DATA00":
