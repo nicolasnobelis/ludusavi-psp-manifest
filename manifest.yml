@@ -3,6 +3,22 @@
     "<root>/PSP/SAVEDATA/ULES00841":
       tags:
         - save
+"Crimson Gem Saga - ULUS-10400":
+  files:
+    # TODO The names suggest extra slots 3-8, however the slot 9's save file has a specific name
+    # "SLOTOPT.DAT" (and not "SLOT9.SAV" like other slots naming pattern) so maybe it is not the case.
+    "<root>/PSP/SAVEDATA/ULUS10400SLOT00":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS10400SLOT01":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS10400SLOT02":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS10400SLOT09":
+      tags:
+        - save
 "Crush - ULES-00765":
   files:
     "<root>/PSP/SAVEDATA/ULES00765DATA00":
