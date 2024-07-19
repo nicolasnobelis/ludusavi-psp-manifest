@@ -255,3 +255,8 @@
     "<root>/PSP/GAME/UCES00465":
       tags:
         - dlc
+"Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman - ULUS-10559":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS10559HERO000":
+      tags:
+        - save
