@@ -215,6 +215,20 @@
     "<root>/PSP/LICENSE/EP0367-ULES00909_00-GPCPUZZLEQ000002.RIF":
       tags:
         - "license if the game was downloaded from the PSN"
+"Shin Megami Tensei: Persona - ULUS-10432":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS10432CNTI":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS10432SYSI":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS104320000":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS104320001":
+      tags:
+        - save
 "Silent Hill: Shattered Memories - ULES-01352":
   files:
     "<root>/PSP/SAVEDATA/ULES01352STORE.000":
