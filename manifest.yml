@@ -274,6 +274,17 @@
     "<root>/PSP/GAME/UCES00465":
       tags:
         - dlc
+"Ys Seven - ULUS-10551":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS105510001":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS105510002":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS105510003":
+      tags:
+        - save
 "Z.H.P.: Unlosing Ranger vs. Darkdeath Evilman - ULUS-10559":
   files:
     "<root>/PSP/SAVEDATA/ULUS10559HERO000":
