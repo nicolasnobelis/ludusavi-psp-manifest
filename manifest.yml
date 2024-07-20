@@ -250,6 +250,11 @@
     "<root>/PSP/SAVEDATA/ULES01500DATA01":
       tags:
         - save
+"The Legend of Heroes: Trails in the Sky - ULUS-10540":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS105400001":
+      tags:
+        - save
 "Warriors Orochi - ULES-01055":
   files:
     "<root>/PSP/SAVEDATA/ULES010550000":
