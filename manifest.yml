@@ -260,6 +260,11 @@
     "<root>/PSP/SAVEDATA/ULUS105400001":
       tags:
         - save
+"Vagrant Story - SLES-02755":
+  files:
+    "<root>/PSP/SAVEDATA/SLES02755":
+      tags:
+        - save
 "Warriors Orochi - ULES-01055":
   files:
     "<root>/PSP/SAVEDATA/ULES010550000":
