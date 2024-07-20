@@ -199,6 +199,11 @@
     "<root>/PSP/SAVEDATA/UCES00995_DATA01":
       tags:
         - save
+"Patchwork Heroes - NPEG-00028":
+  files:
+    "<root>/PSP/SAVEDATA/NPEG00028BaraSave0":
+      tags:
+        - save
 "Power Stone Collection - ULES-00496":
   files:
     "<root>/PSP/SAVEDATA/ULES00496":
