@@ -300,3 +300,10 @@
     "<root>/PSP/SAVEDATA/ULUS10559HERO000":
       tags:
         - save
+# This entry is not an official release: this is a GBA emulator. This save contains the normal game saves, not the
+# emulator save states.
+"TempGBA (GBA Emulator)":
+  files:
+    "<root>/PSP/GAME/TempGBA/save":
+      tags:
+        - save
