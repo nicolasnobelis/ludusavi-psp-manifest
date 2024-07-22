@@ -19,6 +19,12 @@
     "<root>/PSP/SAVEDATA/ULUS10400SLOT09":
       tags:
         - save
+"Crisis Core: Final Fantasy VII - ULUS-10336":
+  files:
+    # This game has 99 save slots (0-98), hence a regex.
+    "<root>/PSP/SAVEDATA/ULUS10336DATA*":
+      tags:
+        - save
 "Crush - ULES-00765":
   files:
     "<root>/PSP/SAVEDATA/ULES00765DATA00":
