@@ -1,3 +1,9 @@
+"Brave Story: New Traveler - ULUS-10279":
+  files:
+    # This game has 10 save slots (0-9), hence a regex.
+    "<root>/PSP/SAVEDATA/ULUS10279000*":
+      tags:
+        - save
 "Breath of Fire III - ULES-00193":
   files:
     "<root>/PSP/SAVEDATA/ULES001930000":
