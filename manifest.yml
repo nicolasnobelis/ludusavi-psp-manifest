@@ -54,6 +54,15 @@
     "<root>/PSP/SAVEDATA/ULES01270GameData01":
       tags:
         - save
+"Dissidia 012: Duodecim Final Fantasy - ULES-01505":
+  files:
+    # This game has 20 save slots (0-19), hence a regex.
+    "<root>/PSP/SAVEDATA/ULES01505GameData*":
+      tags:
+        - save
+    "<root>/PSP/GAME/ULES01505":
+      tags:
+        - dlc
 "Fat Princess: Fistful of Cake - UCUS-98740":
   files:
     "<root>/PSP/SAVEDATA/UCUS98740DATA00":
