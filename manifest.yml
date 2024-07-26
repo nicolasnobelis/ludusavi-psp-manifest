@@ -68,6 +68,12 @@
     "<root>/PSP/SAVEDATA/UCUS98740DATA00":
       tags:
         - save
+"Fate/Extra - ULES-01561":
+  files:
+    # This game has 100 save slots (0-99), hence a regex.
+    "<root>/PSP/SAVEDATA/ULES01561DATA*":
+      tags:
+        - save
 "Final Fantasy: 20th Anniversary Edition - ULES-00986":
   files:
     "<root>/PSP/SAVEDATA/ULES00986DATA00":
