@@ -93,6 +93,11 @@
     "<root>/PSP/SAVEDATA/ULES01521System":
       tags:
         - save
+"Final Fantasy Tactics: The War of the Lion - ULUS-10297":
+  files:
+    "<root>/PSP/SAVEDATA/ULUS10297FFT0000":
+      tags:
+        - save
 "God of War: Chains of Olympus - UCES-00842":
   files:
     "<root>/PSP/SAVEDATA/UCES00842DATA00":
