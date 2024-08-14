@@ -118,6 +118,13 @@
     "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
       tags:
         - save
+"Gods Eater Burst - ULES-01519":
+  files:
+    # This game has 3 save slots (0-2), hence a regex.
+    # The save directories are weirdly named e.g. "ULES015190680502102040001002".
+    "<root>/PSP/SAVEDATA/ULES01519*":
+      tags:
+        - save
 "Grand Theft Auto: Liberty City Stories - ULES-00151":
   files:
     "<root>/PSP/SAVEDATA/ULES00151S0":
