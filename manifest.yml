@@ -118,6 +118,15 @@
     "<root>/PSP/SAVEDATA/UCES00842PROFILE00":
       tags:
         - save
+"God of War: Ghost of Sparta - UCES-01401":
+  files:
+    # This game has 50 save slots (0-49), hence a regex.
+    "<root>/PSP/SAVEDATA/UCES01401DATA*":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/UCES01401PROFILE00":
+      tags:
+        - save
 "Gods Eater Burst - ULES-01519":
   files:
     # This game has 3 save slots (0-2), hence a regex.
