@@ -209,6 +209,15 @@
     "<root>/PSP/SAVEDATA/UCES00304_LocoHouse000":
       tags:
         - save
+"Lunar: Silver Star Harmony - ULUS-10482":
+  files:
+    # This game has 5 save slots (0-4), hence a regex.
+    "<root>/PSP/SAVEDATA/ULUS10482DATA0*":
+      tags:
+        - save
+    "<root>/PSP/SAVEDATA/ULUS10482SYSDAT00":
+      tags:
+        - settings
 "MotorStorm: Arctic Edge - UCES-01250":
   files:
     "<root>/PSP/SAVEDATA/UCES012500000":
