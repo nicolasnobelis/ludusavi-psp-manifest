@@ -148,6 +148,12 @@
     "<root>/PSP/SAVEDATA/ULES00151S1":
       tags:
         - save
+"Grand Theft Auto: Vice City Stories - ULES-00502":
+  files:
+    # This game has 8 save slots (0-49), hence a regex.
+    "<root>/PSP/SAVEDATA/ULES00502S92F*":
+      tags:
+        - save
 "Half-Minute Hero - ULES-01359":
   files:
     "<root>/PSP/SAVEDATA/ULES01359DATA00":
