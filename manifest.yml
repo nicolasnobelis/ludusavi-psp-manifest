@@ -140,6 +140,12 @@
     "<root>/PSP/SAVEDATA/ULES01519*":
       tags:
         - save
+"Grand Theft Auto: Chinatown Wars - ULES-01347":
+  files:
+    # This game has 8 save slots (0-7) plus an automatic one labelled "ULES01347LA", hence a regex.
+    "<root>/PSP/SAVEDATA/ULES01347L*":
+      tags:
+        - save
 "Grand Theft Auto: Liberty City Stories - ULES-00151":
   files:
     "<root>/PSP/SAVEDATA/ULES00151S0":
